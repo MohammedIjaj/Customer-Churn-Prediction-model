@@ -27,7 +27,7 @@ To get started with this project, you'll need the following:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/customer-churn-prediction-model.git
+   git clone https://github.com/mohammedijaj/customer-churn-prediction-model.git
    ```
 
 2. Navigate to the project directory:
