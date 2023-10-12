@@ -70,4 +70,3 @@ If you have any questions, ideas, or suggestions for improvement, please feel fr
 
 ---
 
-Please customize this README by replacing `[Your Name]` and `[Data Source Provider]` with your information and any specific details related to your project.
