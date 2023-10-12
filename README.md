@@ -1,4 +1,4 @@
-Certainly, here's a README for a Customer Churn Prediction Model:
+
 
 ---
 
