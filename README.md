@@ -50,12 +50,7 @@ To get started with this project, you'll need the following:
    jupyter notebook
    ```
 
-2. Within the notebook, you'll find several essential files:
-
-   - `Data_Preparation.ipynb`: This notebook covers data cleaning and preprocessing.
-   - `Exploratory_Data_Analysis.ipynb`: Here, you can explore the dataset, visualize key insights, and identify potential churn predictors.
-   - `Model_Training.ipynb`: Train and evaluate different machine learning models for customer churn prediction.
-   - `Model_Deployment.ipynb`: Deploy the most effective model for practical use and generate predictions.
+2. Within the notebook, you'll find several essential files
 
 ## Contributing
 
@@ -64,7 +59,7 @@ Contributions to this project are highly encouraged! Whether you want to enhance
 
 ## Acknowledgments
 
-We'd like to express our gratitude to the data source provider for making the customer dataset available for analysis and prediction.
+I'd like to express our gratitude to the data source provider for making the customer dataset available for analysis and prediction.
 
 If you have any questions, ideas, or suggestions for improvement, please feel free to reach out. Let's work together to predict and prevent customer churn! 📊👥
 
